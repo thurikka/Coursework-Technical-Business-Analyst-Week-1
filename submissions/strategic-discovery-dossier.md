@@ -37,13 +37,13 @@ Create a first-pass table.
 
 | Stakeholder concern | Likely process area affected | Possible metric or evidence source | Likely deliverable | JTBD link
 |---|---|---|---|---|
-| Agents wasting time on repeated customer contact and manual reconciliation | Follow-up scheduling and manual reconciliation | Time logs, duplicate contact counts, time spent reconciling statuses | As-is process map, JTBD, ROI model |
-|Missed follow-ups on delinquent accounts|Follow up scheduling/tracking|% of accounts with missed follow-ups|As-is process map|
-|Inconsistent status updates between spreadsheets and database|Status reporting and updates|Error counts, reconciliation effort|As-is process map|
-|Low collections performance due to manual delays|Collections workflow|Recovery rate, overdue balances, revenue leakage|ROI model, To-be process map|
-|Frustration with portal/automation feasibility|self-service, automation processes|Agent feedback, customer feedback|To-be process map, JTBD, ROI model|
-|Lack of clear visibility for managers|Reporting/Tracking|Completeness/detail of available info, how actions taken are reported|To-be process map|
-|Risk of compliance or financial errors|Compliance and reporting|Error rates in manual reconciliation, estimated monetary loss due to mistakes made|ROI assumptions|
+| Agents wasting time on repeated customer contact and manual reconciliation | Follow-up scheduling and manual reconciliation | Time logs, duplicate contact counts, time spent reconciling statuses | As-is process map, JTBD, ROI model | JTBD-01, JTBD-02, JTBD-03
+|Missed follow-ups on delinquent accounts|Follow up scheduling/tracking|% of accounts with missed follow-ups|As-is process map|JTBD-04, JTBD-06
+|Inconsistent status updates between spreadsheets and database|Status reporting and updates|Error counts, reconciliation effort|As-is process map|JTBD-03
+|Low collections performance due to manual delays|Collections workflow|Recovery rate, overdue balances, revenue leakage|ROI model, To-be process map|JTBD-04, JTBD-08
+|Frustration with portal/automation feasibility|self-service, automation processes|Agent feedback, customer feedback|To-be process map, JTBD, ROI model|JTBD-01, JTBD-03, JTBD-05
+|Lack of clear visibility for managers|Reporting/Tracking|Completeness/detail of available info, how actions taken are reported|To-be process map|JTBD-05, JTBD-06
+|Risk of compliance or financial errors|Compliance and reporting|Error rates in manual reconciliation, estimated monetary loss due to mistakes made|ROI assumptions|JTBD-06, JTBD-07
 
 
 
