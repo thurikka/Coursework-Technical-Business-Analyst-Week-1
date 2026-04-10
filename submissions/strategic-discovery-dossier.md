@@ -8,8 +8,6 @@ Legacy-Trust’s debt recovery relies on fragmented, manual processes that strug
 
 ## 2. Stakeholder overview
 
-Complete a short table like the one below.
-
 | Stakeholder group | What they care about | How success is measured | Main worry | Evidence they will trust |
 |---|---|---|---|---|
 | Operations leadership | Reducing manual effort, freeing agents for complex cases,clear process oversight | Clear map of where work breaks down, realistic future-state process | Over-promising automation, impractical workflows | Proof automation saves time |
@@ -32,8 +30,6 @@ Complete a short table like the one below.
 
 
 ## 4. Traceability starter
-
-Create a first-pass table.
 
 | Stakeholder concern | Likely process area affected | Possible metric or evidence source | Likely deliverable | JTBD link
 |---|---|---|---|---|
